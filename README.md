@@ -1,6 +1,7 @@
-# todo-app
-Simple todo App using HTML, CSS, JavaScript
-# 📝 Todo App
+# todo-application
+Beginner-friendly Todo List application using JavaScript DOM manipulation
+
+# 📝 Todo Application
 
 A simple and beginner-friendly **Todo List application** built using **HTML, CSS, and JavaScript**.  
 This project allows users to add tasks and delete them easily. It is created to understand **basic DOM manipulation** in JavaScript.
